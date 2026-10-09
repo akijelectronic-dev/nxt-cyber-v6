@@ -9,7 +9,7 @@
 /* ═══════════════════════════════════════════════════════
    ✅ Worker URL
    ═══════════════════════════════════════════════════════ */
-var WORKER_URL = 'https://nxt-cyber-v6.akijelectronic.workers.dev';
+var WORKER_URL = 'https://nxt-cyber-v4.akijelectronic.workers.dev';
 
 /* ═══════════════════════════════════════════════════════
    AI SYSTEM PROMPT
